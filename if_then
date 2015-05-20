@@ -1,0 +1,10 @@
+#!/bin/bash
+
+myNum=100
+
+if [ $myNum -eq 200 ]
+then
+    echo "My number is 200!"
+else
+    echo "My number is NOT equal to 200!"
+fi
